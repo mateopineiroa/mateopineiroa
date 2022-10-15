@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mateopineiroa
 - 👀 I’m interested in learning software development and permanently push my bounderies.
 - 🌱 I’m currently learning front-end and back-end.
-- 💞️ I’m looking to collaborate on interesting proyects and learn to work properly as a team.
+- 💞️ I’m looking to collaborate on interesting proyects and being part of a team of developers.
 - 📫 How to reach me: mateopineiro2001@gmail.com
 
 <!---
